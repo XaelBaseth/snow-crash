@@ -1,4 +1,4 @@
-# Level 00 -
+# Level 00 - Caesar Code
 
 First thing we check the basic info we have an user
 
@@ -20,7 +20,7 @@ Nothing interesting.
 What files have I access to ?
 
 ```bash
-$ find / -user flag00 # returns the file owned by the user flag00
+$ find / -user flag00 2> /dev/null # returns the file owned by the user flag00
 /usr/sbin/john
 /rofs/usr/sbin/john
 
