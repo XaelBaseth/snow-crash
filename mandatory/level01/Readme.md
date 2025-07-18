@@ -1,4 +1,4 @@
-# Level 01 -
+# Level 01 - John The Ripper
 
 We check the information of the user
 
